@@ -18,7 +18,7 @@ In order to Install it from Git. Follow the Steps:
 
 2. Open Terminal with Ctrl+Shift+**`**
 
-<img src="tu2.png">
+
 
 3. Now, Type the following command `git clone https://github.com/LeGend077/template.git`. and hit enter.
 
