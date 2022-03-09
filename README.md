@@ -22,7 +22,7 @@ In order to Install it from Git. Follow the Steps:
 
 3. Now, Type the following command `git clone https://github.com/LeGend077/template.git`. and hit enter.
 
-![t2](tu2.png)
+![t2](css/tu2.png)
 
 4. It is done, Open the index.html to start coding!
 
