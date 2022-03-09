@@ -14,19 +14,19 @@ In order to Install it from Git. Follow the Steps:
 
 1. Open a folder in your Vscode or IDE.
 
-![....](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu1.PNG)
+<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu1.PNG">
 
 2. Open Terminal
 
-![..](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu2.PNG)
+<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu2.PNG">
 
 3. Now, Type the following command `git clone https://github.com/LeGend077/template.git` and hit enter.
 
-![.](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu3.PNG)
+<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu3.PNG">
 
 4. It is done, Open the index.html to start coding!
 
-![...](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu4.PNG)
+<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu4.PNG">
 
 - **Second** by downloading
 
@@ -106,7 +106,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 - `.img` class adds a simple border around it.
 
-![...](https://www.minecraft.net/content/dam/games/minecraft/background-images/pmp-hero-minecraft.jpg)
+<img src="https://www.minecraft.net/content/dam/games/minecraft/background-images/pmp-hero-minecraft.jpg" class="img">
 
 ```html
 <img class="img"  src="lol.png" alt="...">
@@ -151,11 +151,11 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 ```
 # Responsiveness
 
-![alt](https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive1.PNG)
+<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive1.PNG">
 
 ---
 
-![alti](https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive2.PNG)
+<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive2.PNG">
 
 # What's Next?
 
