@@ -14,15 +14,15 @@ In order to Install it from Git. Follow the Steps:
 
 1. Open a folder in your Vscode or IDE.
 
-![..](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu1.PNG)
+![....](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu1.PNG)
 
 2. Open Terminal
 
-![...](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu2.PNG)
+![..](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu2.PNG)
 
 3. Now, Type the following command `git clone https://github.com/LeGend077/template.git` and hit enter.
 
-![...](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu3.PNG)
+![.](https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu3.PNG)
 
 4. It is done, Open the index.html to start coding!
 
@@ -151,11 +151,11 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 ```
 # Responsiveness
 
-![...](https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive1.PNG)
+![alt](https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive1.PNG)
 
 ---
 
-![...](https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive2.PNG)
+![alti](https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive2.PNG)
 
 # What's Next?
 
