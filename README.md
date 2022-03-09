@@ -6,39 +6,15 @@ Hey! What's Up! It's [LeGend077](//github.com/LeGend077), the creator of the Min
 
 # Installation
 
-There are two ways to install it.
+By downloading
 
-- **First** with Git
+In order to install it by downloading. Follow the Steps:
 
-In order to Install it from Git. Follow the Steps:
+1. Click [here](https://github.com/LeGend077/template/archive/refs/heads/main.zip) to download it.
 
-1. Open a folder in your Vscode or IDE.
+2. Find the ZIP file and click extract here.
 
-<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu1.PNG">
-
-2. Open Terminal
-
-<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu2.PNG">
-
-3. Now, Type the following command `git clone https://github.com/LeGend077/template.git` and hit enter.
-
-<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu3.PNG">
-
-4. It is done, Open the index.html to start coding!
-
-<img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/tu4.PNG">
-
-- **Second** by downloading
-
-In order to install it by downloading. Follw the Steps:
-
-1. Open your browser and Go to `https://github.com/LeGend077/template` .
-
-2. Now, Click the Code button at center and Click download as ZIP.
-
-3. Find the ZIP file and click extract here.
-
-4. Finally, Open the extracted folder and start coding!
+3. Finally, Open the extracted folder and start coding!
 
 # Buttons
 
