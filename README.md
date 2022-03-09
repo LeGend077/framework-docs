@@ -14,7 +14,7 @@ In order to Install it from Git. Follow the Steps:
 
 1. Open a folder in your Vscode or IDE.
 
-![t1](tu1.png)
+<img src="/tu1.png">
 
 2. Open Terminal with Ctrl+Shift+**`**
 
