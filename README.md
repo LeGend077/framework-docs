@@ -14,7 +14,7 @@ In order to Install it from Git. Follow the Steps:
 
 1. Open a folder in your Vscode or IDE.
 
-<img src="tu1.png">
+
 
 2. Open Terminal with Ctrl+Shift+**`**
 
@@ -22,11 +22,11 @@ In order to Install it from Git. Follow the Steps:
 
 3. Now, Type the following command `git clone https://github.com/LeGend077/template.git`. and hit enter.
 
-![t2](tu2.png)
+
 
 4. It is done, Open the index.html to start coding!
 
-![t3](tu3.png)
+
 
 - **Second** by downloading
 
@@ -160,6 +160,3 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 # What's Next?
 
 > It is the V1.0 of the Framework. More features will come in V2.0! Tell me bugs at discord or on github. Tell me if you want Mojang font tutorial.
-#� �f�r�a�m�e�w�o�r�k�-�d�o�c�s�
-�
-�
