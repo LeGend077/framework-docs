@@ -106,7 +106,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 - `.img` class adds a simple border around it.
 
-<img class="img"  src="https://www.minecraft.net/content/dam/games/minecraft/background-images/pmp-hero-minecraft.jpg" alt="...">
+![...](https://www.minecraft.net/content/dam/games/minecraft/background-images/pmp-hero-minecraft.jpg)
 
 ```html
 <img class="img"  src="lol.png" alt="...">
