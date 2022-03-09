@@ -16,17 +16,17 @@ In order to Install it from Git. Follow the Steps:
 
 ![...](https://github.com/LeGend077/framework-docs/blob/main/tu1.PNG)
 
-2. Open Terminal with Ctrl+Shift+**`**
+2. Open Terminal
 
-
+![...](https://github.com/LeGend077/framework-docs/blob/main/tu2.PNG)
 
 3. Now, Type the following command `git clone https://github.com/LeGend077/template.git`. and hit enter.
 
-
+![...](https://github.com/LeGend077/framework-docs/blob/main/tu3.PNG)
 
 4. It is done, Open the index.html to start coding!
 
-
+![...](https://github.com/LeGend077/framework-docs/blob/main/tu4.PNG)
 
 - **Second** by downloading
 
@@ -151,11 +151,11 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 ```
 # Responsiveness
 
-<img class="img"  src="responsive1.png" alt="...">
+![...](https://github.com/LeGend077/framework-docs/blob/main/responsive1.PNG)
 
 ---
 
-<img class="img"  src="responsive2.png" alt="...">
+![...](https://github.com/LeGend077/framework-docs/blob/main/responsive2.PNG)
 
 # What's Next?
 
