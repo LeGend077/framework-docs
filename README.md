@@ -14,7 +14,7 @@ In order to Install it from Git. Follow the Steps:
 
 1. Open a folder in your Vscode or IDE.
 
-
+![...](https://github.com/LeGend077/framework-docs/blob/main/tu1.PNG)
 
 2. Open Terminal with Ctrl+Shift+**`**
 
