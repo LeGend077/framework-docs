@@ -174,10 +174,10 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 
 <input type="text" class="input-text" name="text" placeholder="Type....">
 
-- To get a input with a submit button with it, use `.is` class in your text input with `.input-text` class.
+- To get a input with a submit button with it, use `.is` class in your text input with `.input-text` class. And `.inline` class in your `div` element
 
 <form>
-<div class="container"><input type="text" class="input-text is" name="text" placeholder="Type...."><input type="submit" value="Submit" class="button"></div>
+<div class="container inline"><input type="text" class="input-text is" name="text" placeholder="Type...."><input type="submit" value="Submit" class="button"></div>
 </form>
 
 ```html
