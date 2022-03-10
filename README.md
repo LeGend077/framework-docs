@@ -16,7 +16,9 @@ In order to install it by downloading. Follow the Steps:
 
 3. Finally, Open the extracted folder and start coding!
 
+
 # Buttons
+
 
 - To get a Minecraft BE/PE styled button you need to add `.button` class to your `button` element. Unfortunately `.button` class will not work with links but you can still use it with Java Script.    
 
@@ -47,7 +49,9 @@ In order to install it by downloading. Follow the Steps:
 </div>
 ```
 
+
 # Colors and Text
+
 
 **Background Colors**
 
@@ -174,18 +178,6 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 
 <input type="text" class="input-text" name="text" placeholder="Type....">
 
-- To get a input with a submit button with it, use `.is` class in your text input with `.input-text` class. And `.inline` class in your `div` element
-
-<form action="">    <div class="container text-center inline"><input type="text" name="text" id="" class="input-text" placeholder="Your Name..."><input type="submit" value="Submit" class="button"></div></form>
-
-```html
-<form>
-<div class="container">
-    <input type="text" class="input-text is" name="text" placeholder="Type....">
-    <input type="submit" value="Submit" class="button">
-    </div>
-</form>
-```
 
 # Responsiveness
 
