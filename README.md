@@ -61,11 +61,11 @@ In order to install it by downloading. Follow the Steps:
 - **Warning**: Use `.bg-warning` to get a warning like Background.
 - **Danger**: Use `.bg-danger` to get a Red/Danger Background.
 
-<div class="container bg-white text-dark">Background in White!</div>
-<div class="container bg-primary">Background in Primary!</div>
-<div class="container bg-dark text-white">Background in Dark!</div>
-<div class="container bg-warning">Background in Warning!</div>
-<div class="container bg-danger">Background in Danger!</div>
+<div class="dialogue-box bg-white text-dark">Background in White!</div>
+<div class="dialogue-box bg-primary">Background in Primary!</div>
+<div class="dialogue-box bg-dark text-white">Background in Dark!</div>
+<div class="dialogue-box bg-warning">Background in Warning!</div>
+<div class="dialogue-box bg-danger">Background in Danger!</div>
 
 ---
 
