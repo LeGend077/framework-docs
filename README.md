@@ -40,7 +40,7 @@ In order to install it by downloading. Follow the Steps:
 
 - To get buttons in group. Use `.inline` in your `<div>` element.
 
-<div class="inline"><button class="button">Button 1</button><button class="button-dark">Button 1</button><button class="button">Button 1</button><button class="button-dark">Button 2</button></div>
+<div class="inline"><button class="button">Button 1</button><button class="button-dark">Button 2</button><button class="button">Button 3</button><button class="button-dark">Button 4</button></div>
 
 ```html
 <div class="inline">
