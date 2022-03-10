@@ -16,6 +16,14 @@ In order to install it by downloading. Follow the Steps:
 
 3. Finally, Open the extracted folder and start coding!
 
+By CDN
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.0.0/css/main.css">
+```
+
+1. Paste above `link` tag at the top of your html file below the `html` tag.
+
 
 # Buttons
 
