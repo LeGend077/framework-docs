@@ -25,7 +25,6 @@ In order to install it by downloading. Follow the Steps:
 <button  class="button">Click Me</button>
 ```
 
-
 - There is a dark variant of it also. To get dark button, use class `.button-dark` to your `button`  element.
 
 <button class="button-dark" style="font-family:'Mojang'">Click Me</button>
@@ -33,6 +32,54 @@ In order to install it by downloading. Follow the Steps:
 ```html
 <button class="button-dark">Click Me</button>
 ```
+
+
+**Buttons Group**
+
+- To get buttons in group. Use `.inline` in your `<div>` element.
+
+<div class="inline"><button class="button">Button 1</button><button class="button-dark">Button 1</button><button class="button">Button 1</button><button class="button-dark">Button 2</button></div>
+
+```html
+<div class="inline">
+    <button class="button">Button 1</button>
+    <button class="button-dark">Button 2</button>
+</div>
+```
+
+# Colors and Text
+
+**Background Colors**
+
+- **White**: Use `.bg-white` to lighter the Background.
+- **Primary**: Use `.bg-primary` to get a bluish Background.
+- **Dark**: Use `.bg-dark` to get a darked Background.
+- **Warning**: Use `.bg-warning` to get a warning like Background.
+- **Danger**: Use `.bg-danger` to get a Red/Danger Background.
+
+<div class="container bg-white text-dark">Background in White!</div>
+<div class="container bg-primary">Background in Primary!</div>
+<div class="container bg-dark text-white">Background in Dark!</div>
+<div class="container bg-warning">Background in Warning!</div>
+<div class="container bg-danger">Background in Danger!</div>
+
+---
+
+**Texts**
+
+**Centered Text**: Use `.text-center` to center the text.
+
+<div class="text-center" style="font-family:'Mojang'">I'm Centered</div>
+
+```html
+<div class="text-center">I'm Centered</div>
+```
+
+- **White Text**: Use `.text-white` to lighter the text.
+- **Primary Text**: Use `.text-primary` to get a bluish text.
+- **Dark Text**: Use `.text-dark` to get a darked text.
+- **Warning Text**: Use `.text-warning` to get a warning like text.
+- **Danger Text**: Use `.text-danger` to get a Red/Danger text.
 
 
 # Header
@@ -66,8 +113,7 @@ line-height:var(--l-spacing);">Hello! How are you?</div>
 
 - `.container` class adds some margin, padding and a simple background.
 
-<div class="container" style="font-family:'Mojang';word-spacing:var(--w-spacing) ;
-line-height:var(--l-spacing);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+<div class="container" style="word-spacing:var(--w-spacing);line-height:var(--l-spacing);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
@@ -75,6 +121,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 ```html
 <div class="container">
  ... ... ...
+</div>
+```
+
+# Dialogue Box
+
+- With `.dialogue-box` class you can get Minecraft like Box Borders.
+
+<div class="dialogue-box">I'm Good! How are you? I think you are good!</div>
+
+```html
+<div class="dialogue-box">
+    I'm Good! How are you? I think you are good!
 </div>
 ```
 
@@ -86,24 +144,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ```html
 <img class="img"  src="lol.png" alt="...">
-```
-
-# Text
-
-**Centered Text**: Use `.text-center` to center the text.
-
-<div class="text-center" style="font-family:'Mojang'">I'm Centered</div>
-
-```html
-<div class="text-center">I'm Centered</div>
-```
-
-**White Text**: Use `.text-white` to lighter the text.
-
-<div class="text-white" style="background-color:black ;font-family:'Mojang'">I am white</div>
-
-```html
-<div class="text-white" style="background-color:black">I am white</div>
 ```
 
 # Links
@@ -125,6 +165,30 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 ```html
 <a href="#" class="link-white">Link</a>
 ```
+
+# Forms
+
+(Beta In progress)
+
+- To get Minecraft BE/PE text input, use `.input-text` class in your `input` element with type `text`.
+
+<input type="text" class="input-text" name="text" placeholder="Type....">
+
+- To get a input with a submit button with it, use `.is` class in your text input with `.input-text` class.
+
+<form>
+<div class="container"><input type="text" class="input-text is" name="text" placeholder="Type...."><input type="submit" value="Submit" class="button"></div>
+</form>
+
+```html
+<form>
+<div class="container">
+    <input type="text" class="input-text is" name="text" placeholder="Type....">
+    <input type="submit" value="Submit" class="button">
+    </div>
+</form>
+```
+
 # Responsiveness
 
 <img src="https://raw.githubusercontent.com/LeGend077/framework-docs/main/responsive1.PNG">
@@ -135,4 +199,4 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 
 # What's Next?
 
-> It is the V1.0 of the Framework. More features will come in V2.0! Tell me bugs at discord or on github. Tell me if you want Mojang font tutorial.
+> It is the V1.05 Beta of the Framework. More features will come in V1.1! Tell me bugs at discord or on github. Tell me if you want Mojang font tutorial.
