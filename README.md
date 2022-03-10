@@ -10,7 +10,7 @@ By downloading
 
 In order to install it by downloading. Follow the Steps:
 
-1. Click [here](https://github.com/LeGend077/template/archive/refs/heads/main.zip) to download it.
+1. Click [here](https://github.com/LeGend077/framework-docs/releases/download/releaseV1.05/Beta.1.05.Template.zip) to download it.
 
 2. Find the ZIP file and click extract here.
 
