@@ -19,7 +19,7 @@ In order to install it by downloading. Follow the Steps:
 By CDN
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.0.0/css/main.css">
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.0/css/main.css">
 ```
 
 1. Paste above `link` tag at the top of your html file below the `html` tag.
