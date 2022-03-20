@@ -4,6 +4,8 @@ Hey! What's Up! It's [LeGend077](//github.com/LeGend077), the creator of the Min
 
 **About:** This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI and supports all devices as it is responsive! You can't claim it yours but can use this on your website! 
 
+**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css).
+
 # Installation
 
 By downloading
@@ -197,4 +199,4 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 
 # What's Next?
 
-> It is the V1.05 Beta of the Framework. More features will come in V1.1! Tell me bugs at discord or on github. Tell me if you want Mojang font tutorial.
+> It is the V1.1.0 of the Framework. V1.2.0 will come with lot of Java Edition related UI.
