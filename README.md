@@ -61,11 +61,11 @@ CDN:
 
 <button class="button-java-w">Click Me</button>
 
-<button class="button-java-old-w">Click Me</button>
+<button class="button-java-w-old">Click Me</button>
 
 ```html
 <button class="button-java-w">Click Me</button>
-<button class="button-java-old-w">Click Me</button>
+<button class="button-java-w-old">Click Me</button>
 
 ```
 
