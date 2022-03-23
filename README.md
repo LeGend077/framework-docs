@@ -2,29 +2,24 @@
 
 Hey! What's Up! It's [LeGend077](//github.com/LeGend077), the creator of the Minecraft CSS framework. I'm going to talk to you in the whole Documentation. 
 
-**About:** This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI and supports all devices as it is responsive! You can't claim it yours but can use this on your website! 
+**About:** This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI(now with Java!) and supports all devices as it is responsive! You can't claim it yours but can use this on your website! 
 
 **NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css).
 
 # Installation
 
-By downloading
-
-In order to install it by downloading. Follow the Steps:
-
-1. Click [here](https://github.com/LeGend077/framework-docs/releases/download/releaseV1.05/Beta.1.05.Template.zip) to download it.
-
-2. Find the ZIP file and click extract here.
-
-3. Finally, Open the extracted folder and start coding!
-
-By CDN
+CDN:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.0/css/main.css">
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.5/css/main.css">
 ```
 
-1. Paste above `link` tag at the top of your html file below the `html` tag.
+```html
+<script src="https://unpkg.com/minecraft-framework-css@1.1.5/css/assets/script.js"></script>
+```
+
+1. Paste above `link` tag at the top of your html file below the `head` tag.
+2. Paste the above `script` tag at the bottom of your `body` tag.
 
 
 # Buttons
@@ -34,7 +29,7 @@ By CDN
 
 <button class="button" style="font-family:'Mojang'">Click Me</button>
 ```html
-<button  class="button">Click Me</button>
+<button class="button">Click Me</button>
 ```
 
 - There is a dark variant of it also. To get dark button, use class `.button-dark` to your `button`  element.
@@ -43,6 +38,35 @@ By CDN
 
 ```html
 <button class="button-dark">Click Me</button>
+```
+
+- To get a Minecraft Java Edition (New) styled button you need to add `.button-java` class to your `button` element. Unfortunately `.button-java` class will not work with links but you can still use it with Java Script.
+
+<button class="button-java">Click Me</button>
+
+```html
+<button class="button-java">Click Me</button>
+```
+
+
+- To get a Minecraft Java Edition (Old) styled button you need to add `.button-java-old` class to your `button` element.
+
+<button class="button-java-old">Click Me</button>
+
+```html
+<button class="button-java">Click Me</button>
+```
+
+- **There is also more width style of Java buttons.** Add `-w` to the classes.
+
+<button class="button-java-w">Click Me</button>
+
+<button class="button-java-old-w">Click Me</button>
+
+```html
+<button class="button-java-w">Click Me</button>
+<button class="button-java-old-w">Click Me</button>
+
 ```
 
 
@@ -57,6 +81,18 @@ By CDN
     <button class="button">Button 1</button>
     <button class="button-dark">Button 2</button>
 </div>
+```
+
+**Button Sounds (New)(JavaScript)**
+
+- There is click sound in Minecraft called random.click which is for button click. So, to add this to your button, you need to add `onclick` event: `onclick="soundOn()"`. Make sure that you linked the Script tag to your file!
+
+<button class="button" onclick="soundOn()">Click Me</button>
+<button class="button-java" onclick="soundOn()">Click Me</button>
+
+```html
+<button class="button" onclick="soundOn()">Click Me</button>
+<button class="button-java" onclick="soundOn()">Click Me</button>
 ```
 
 
@@ -199,4 +235,4 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 
 # What's Next?
 
-> It is the V1.1.0 of the Framework. V1.2.0 will come with lot of Java Edition related UI.
+> It is the V1.1.5 of the Framework. V1.2.0 will come with lot of Java Edition related UI.
