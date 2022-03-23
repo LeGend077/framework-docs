@@ -4,18 +4,18 @@ Hey! What's Up! It's [LeGend077](//github.com/LeGend077), the creator of the Min
 
 **About:** This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI(now with Java!) and supports all devices as it is responsive! You can't claim it yours but can use this on your website! 
 
-**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css).
+**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css). **Warning:** Always use the latest version of package! Latest Version: v1.1.6
 
 # Installation
 
 CDN:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.5/css/main.css">
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.6/css/main.css">
 ```
 
 ```html
-<script src="https://unpkg.com/minecraft-framework-css@1.1.5/css/assets/script.js"></script>
+<script src="https://unpkg.com/minecraft-framework-css@1.1.6/css/assets/script.js"></script>
 ```
 
 1. Paste above `link` tag at the top of your html file below the `head` tag.
