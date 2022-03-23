@@ -4,7 +4,7 @@ Hey! What's Up! It's [LeGend077](//github.com/LeGend077), the creator of the Min
 
 **About:** This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI(now with Java!) and supports all devices as it is responsive! You can't claim it yours but can use this on your website! 
 
-**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css). **Warning:** Always use the latest version of package! Latest Version: v1.1.6
+**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css). **Warning:** Always use the latest version of package! Latest Version: v1.1.6. If on the Npm Package Page V1.2.0 is written ignore that and use v1.1.6
 
 # Installation
 
