@@ -54,7 +54,7 @@ CDN:
 <button class="button-java-old">Click Me</button>
 
 ```html
-<button class="button-java">Click Me</button>
+<button class="button-java-old">Click Me</button>
 ```
 
 - **There is also more width style of Java buttons.** Add `-w` to the classes.
