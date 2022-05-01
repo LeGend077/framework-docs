@@ -285,4 +285,4 @@ Well as you know, In MCBE, there are custom cursors.
 
 # What's Next?
 
-> It is the V1.1.5 of the Framework. V1.2.0 will come with lot of Java Edition related UI.
+> It is the V1.1.7 of the Framework. V1.1.8 will come with lot of UI.
