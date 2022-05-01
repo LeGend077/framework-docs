@@ -4,18 +4,17 @@ Hey! What's Up! It's [LeGend077](//github.com/LeGend077), the creator of the Min
 
 **About:** This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI(now with Java!) and supports all devices as it is responsive! You can't claim it yours but can use this on your website! 
 
-**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css). **Warning:** Always use the latest version of package! Latest Version: v1.1.6. If on the Npm Package Page V1.2.0 is written ignore that and use v1.1.6
-
+**NPM Package**: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css). **Warning:** Always use the latest version of package! Latest Version: v1.1.7.
 # Installation
 
 CDN:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.6/css/main.css">
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.7/css/main.css">
 ```
 
 ```html
-<script src="https://unpkg.com/minecraft-framework-css@1.1.6/css/assets/script.js"></script>
+<script src="https://unpkg.com/minecraft-framework-css@1.1.7/css/assets/script.js"></script>
 ```
 
 1. Paste above `link` tag at the top of your html file below the `head` tag.
@@ -224,6 +223,57 @@ line-height:var(--l-spacing);font-family:'Mojang'">Link</a>
 
 <input type="text" class="input-text" name="text" placeholder="Type....">
 
+- To get a checkbox/toggle, use `<input type="checkbox">`
+
+<input type="checkbox">
+
+- To get a (new) checkbox/toggle, use `<input type="checkbox" class="new">`
+
+<input type="checkbox" class="new">
+
+- To get a MCBE 'Slider', use `<input type="range">`. Note : The Slider can be glitched here.
+
+<input type="range">
+
+- To get a dropdown like MCBE -
+
+    <select name="" id="">
+      <option value="1">Option 1</option>
+      <option value="2">Option 2</option>
+      <option value="3">Option 3</option>
+      <option value="4">Option 4</option>
+    </select>
+
+```html
+<select name="dropdown" id="dropdown">
+      <option value="1">Option 1</option>
+      <option value="2">Option 2</option>
+      <option value="3">Option 3</option>
+      <option value="4">Option 4</option>
+</select>
+```
+
+# Cursors
+
+Well as you know, In MCBE, there are custom cursors.
+
+- To get a have cursors, you need to add `cursor` attribute to a particular element or to the `body`. Cursor attribute is with three options: 
+
+`cursor="arrow"`- Cursor Appearance as Minecraft Arrow
+
+`cursor="pointer"`- Cursor Appearance as Pointer(used in consoles, ps4 etc)
+
+ `cursor="default"`- Cursor Appearance as Default.
+
+<div class="container" cursor="arrow">Hover on me</div>
+<div class="container" cursor="pointer">Hover on me</div>
+<div class="container" cursor="default">Hover on me</div>
+
+```html
+<div class="container" cursor="arrow">Hover on me</div>
+<div class="container" cursor="pointer">Hover on me</div>
+<div class="container" cursor="default">Hover on me</div>
+```
 
 # Responsiveness
 
