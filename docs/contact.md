@@ -3,6 +3,12 @@ title: Contact
 sidebar: false
 ---
 
+<style>
+.container{
+    background-color: white !important;
+}
+</style>
+
 # Contact
 
 You can contact me on Discord: LeGend#1687.
