@@ -7,9 +7,9 @@ export default defineConfig({
     ['script',{ src: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/assets/script.js' }],
     ['link',{ rel: 'stylesheet',href: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/main.css' }]
   ],
+  lastUpdated: true,
   themeConfig: {
-    contributors: true,
-    contributorsText: 'Contributors',
+    lastUpdated: 'Last Updated',
     editLinks: true,
     repo: 'LeGend077/framework-docs',
     docsBranch: 'docs',
