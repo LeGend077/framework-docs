@@ -13,3 +13,9 @@ features:
     details: Anyone can contribute to this project. For more info, Join my Discord Server.
 footer: Copyright © 2022 LeGend077 | "Minecraft" is a trademark of Mojang AB.
 ---
+
+<style>
+.container{
+    background-color: white !important;
+}
+</style>
