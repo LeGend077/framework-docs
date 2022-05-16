@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Minecraft CSS Framework
-tagline: Minecraft-Based CSS Framwork
+tagline: Minecraft-Based CSS Framework
 actionText: Get Started
 actionLink: /docs/
 features:
