@@ -4,9 +4,12 @@ export default defineConfig({
   title: 'Minecraft CSS Framework',
   base: '/framework-docs/',
   head: [
-    ['script',{ src: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/assets/script.js' }]
+    ['script',{ src: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/assets/script.js' }],
+    ['link',{ rel: 'stylesheet',href: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/main.css' }]
   ],
   themeConfig: {
+    contributors: true,
+    contributorsText: 'Contributors',
     editLinks: true,
     repo: 'LeGend077/framework-docs',
     docsBranch: 'docs',
