@@ -3,6 +3,12 @@ title: About
 sidebar: false
 ---
 
+<style>
+.container{
+    background-color: white !important;
+}
+</style>
+
 # About
 
 This is CSS framework which changes the appearance of a site to Minecraft Bedrock UI(now with Java!) and supports all devices as it is responsive! You can't claim it yours but can use this on your website!
