@@ -6,4 +6,4 @@ For more information, join my [Discord Server](https://dsc.gg/legend077) as ther
 
 ---
 
-This documentation runs with the help of [VitePress](https://vitepress.vuejs.org).
+This documentation runs with the help of [VitePress](https://vitepress.vuejs.org). Thank You!
