@@ -37,6 +37,10 @@ Always use the latest version of package! Latest Version: v1.1.7.
 
 ## Buttons
 
+### Bedrock Buttons
+
+#### Normal
+
 - To get a Minecraft BE/PE styled button you need to add `.button` class to your `button` element. Unfortunately, `.button` class will not work with links but you can still use it with Java Script.
 
 <button class="button">Click Me</button>
@@ -44,6 +48,8 @@ Always use the latest version of package! Latest Version: v1.1.7.
 ```html
 <button class="button">Click Me</button>
 ```
+
+#### Dark
 
 - There is a dark variant of it also. To get dark button, use class `.button-dark` to your `button` element.
 
@@ -53,6 +59,10 @@ Always use the latest version of package! Latest Version: v1.1.7.
 <button class="button-dark">Click Me</button>
 ```
 
+### Java Buttons
+
+#### Normal
+
 - To get a Minecraft Java Edition (New) styled button you need to add `.button-java` class to your `button` element. Unfortunately, `.button-java` class will not work with links but you can still use it with Java Script.
 
 <button class="button-java">Click Me</button>
@@ -61,6 +71,8 @@ Always use the latest version of package! Latest Version: v1.1.7.
 <button class="button-java">Click Me</button>
 ```
 
+#### Old
+
 - To get a Minecraft Java Edition (Old) styled button you need to add `.button-java-old` class to your `button` element.
 
 <button class="button-java-old">Click Me</button>
@@ -68,6 +80,8 @@ Always use the latest version of package! Latest Version: v1.1.7.
 ```html
 <button class="button-java-old">Click Me</button>
 ```
+
+#### Full Width
 
 - There is also more width style of Java buttons. Add `-w` to the classes. Warning: They might be broken because of the styling of the Documentation.
 
@@ -93,7 +107,7 @@ Always use the latest version of package! Latest Version: v1.1.7.
 </div>
 ```
 
-**Button Sounds (Java Script)**
+#### Button Sounds (Java Script)
 
 - There is click sound in Minecraft called random.click which is for button click. So, to add this to your `button`, you need to add `onclick` event: `onclick="soundOn()"`. Make sure that you linked the Script tag to your file!
 
