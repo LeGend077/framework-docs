@@ -9,6 +9,11 @@ export default defineConfig({
   ],
   lastUpdated: true,
   themeConfig: {
+    algolia: {
+      appId: 'IQ32K9U9F7',
+      apiKey: '57bb291a4a48fbbe296c8714156dc614',
+      indexName: 'minecraft-css-framework'
+    },
     lastUpdated: 'Last Updated',
     editLinks: true,
     repo: 'LeGend077/framework-docs',
