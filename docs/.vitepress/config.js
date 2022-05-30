@@ -4,8 +4,8 @@ export default defineConfig({
   title: 'Minecraft CSS Framework',
   base: '/framework-docs/',
   head: [
-    ['script',{ src: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/assets/script.js' }],
-    ['link',{ rel: 'stylesheet',href: 'https://unpkg.com/minecraft-framework-css@1.1.7/css/main.css' }]
+    ['script',{ src: 'https://unpkg.com/minecraft-framework-css@1.1.8/css/assets/script.js' }],
+    ['link',{ rel: 'stylesheet',href: 'https://unpkg.com/minecraft-framework-css@1.1.8/css/main.css' }]
   ],
   lastUpdated: true,
   themeConfig: {
