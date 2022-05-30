@@ -291,6 +291,48 @@ Centered Text: Use `.text-center` to center the text.
 </select>
 ```
 
+## Server Forms
+
+As, there are server forms in servers like Hive etc. And you also have seen them. Here are the Web Ones!
+
+::: warning
+Server Forms are not created to like just copy pasting! You've to use your CSS and HTML also!
+:::
+
+- To have a simple form, add `server-form` class to your `div`, `p` or `form` element. Inside this you can have your buttons etc.
+
+<form class="server-form">
+    <label>Choose the Options!</label>
+    <button class="button full-width">Click Me</button>
+    <button class="button full-width">Go Back</button>
+</form>
+
+```html
+<form class="server-form">
+    <label>Choose the Options!</label>
+    <button class="button full-width">Click Me</button>
+    <button class="button full-width">Go Back</button>
+</form>
+```
+
+- To have a form with title, add `server-form-with-title` class to your `div`, `p` or `form` element. Inside this you can have your buttons etc.
+
+Add `form-title` class to a `div`, where you can add your title.
+
+<form class="server-form-with-title">
+    <div class="form-title">Choose the Options</div><br>
+    <button class="button full-width">Click Me</button>
+    <button class="button full-width">Go Back</button>
+</form>
+
+```html
+<form class="server-form-with-title">
+    <div class="form-title">Choose the Options</div><br>
+    <button class="button full-width">Click Me</button>
+    <button class="button full-width">Go Back</button>
+</form>
+```
+
 ## Cursors
 
 Well as you know, In MCBE, there are custom cursors.
