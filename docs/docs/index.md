@@ -17,7 +17,7 @@ Hey! What's Up! It's [LeGend077](https://github.com/LeGend077), the creator of t
 NPM Package: [https://www.npmjs.com/package/minecraft-framework-css](https://www.npmjs.com/package/minecraft-framework-css).
 
 ::: warning
-Always use the latest version of package! Latest Version: v1.1.7.
+Always use the latest version of package! Latest Version: v1.1.8.
 :::
 
 ## Installation
@@ -25,11 +25,11 @@ Always use the latest version of package! Latest Version: v1.1.7.
 ### CDN
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.7/css/main.css">
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.8/css/main.css">
 ```
 
 ```html
-<script src="https://unpkg.com/minecraft-framework-css@1.1.7/css/assets/script.js"></script>
+<script src="https://unpkg.com/minecraft-framework-css@1.1.8/css/assets/script.js"></script>
 ```
 
 1. Paste above `<link>` tag at the top of your html file below the head tag.
@@ -363,4 +363,4 @@ Well as you know, In MCBE, there are custom cursors.
 
 ## What's Next
 
-> Now, Start building your site! It is the v1.1.7 of the framework. Version 1.1.8 will come with other/more features.
+> Now, Start building your site! It is the v1.1.8 of the framework. Version 1.1.9 will come with other/more features.
