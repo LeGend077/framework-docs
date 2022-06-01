@@ -25,11 +25,11 @@ Always use the latest version of package! Latest Version: v1.1.9.
 ### CDN
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.8/css/main.css">
+<link rel="stylesheet" href="https://unpkg.com/minecraft-framework-css@1.1.9/css/main.css">
 ```
 
 ```html
-<script src="https://unpkg.com/minecraft-framework-css@1.1.8/css/assets/script.js"></script>
+<script src="https://unpkg.com/minecraft-framework-css@1.1.9/css/assets/script.js"></script>
 ```
 
 1. Paste above `<link>` tag at the top of your html file below the head tag.
